@@ -167,7 +167,7 @@ html{
 /* slider */
 
 #slider{
-    background: url('/assets/imgreal/background1.jpg') top center / cover no-repeat;
+    background: url('../imgreal/background1.jpg') top center / cover no-repeat;
     margin-top: 46px;
     padding-top: 50%;
 }
