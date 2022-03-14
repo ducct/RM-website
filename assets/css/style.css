@@ -304,6 +304,7 @@ html{
     width: 312px;
     height: 195px;
     display: block;
+    width: 100%;
 }
 
 .place-image:hover{
